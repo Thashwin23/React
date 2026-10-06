@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is the react learning section",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/Thashwin23/React#readme",
+  "bugs": {
+    "url": "https://github.com/Thashwin23/React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thashwin23/React.git"
+  },
+  "license": "ISC",
+  "author": "Thashwin C S",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
